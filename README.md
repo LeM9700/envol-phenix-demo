@@ -183,13 +183,7 @@ Ce projet est développé pour **L'Envol du Phénix** dans le cadre d'une missio
 
 ---
 
-## 📞 Contact
 
-**Email :** lenvolduphenix@gmail.com  
-**Projet :** Mission Test Flutter  
-**Date :** Août 2025
-
----
 
 ## 🔗 Liens Utiles
 
